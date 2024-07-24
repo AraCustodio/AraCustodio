@@ -115,3 +115,21 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <!-- End point insert background effect line of sight color rainbow -->
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<!-- Fade-in / Fade-out effect pannel button for Linkedin, Instagram, Facebook and Twitter -->
+<div align="center">
+<h2>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+<a href="https://www.linkedin.com/in/ara.franchesca.custodio/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+<a href="https://www.instagram.com/franseria" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
+<a href="https://www.facebook.com/AraFCustodio" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
+
+</div>
+
+<br>
+<!-- Language and Tools, feel free to revise this Raven.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
+<div align="center">
+<h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
+<img src="https://skillicons.dev/icons?i=figma,ps,pr,xd,ae,sass,svg,html,css,js,htmx,tailwind,windicss,java,bootstrap,blender,github,codepen,devto,discord,eclipse,idea,githubactions,gmail,vercel,windows,notion,npm,vscode,wordpress" alt="GraphicDesign" title="GraphicDesign"/>
+</div>
