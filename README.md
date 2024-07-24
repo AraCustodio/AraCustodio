@@ -133,3 +133,18 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
 <img src="https://skillicons.dev/icons?i=figma,ps,pr,xd,ae,sass,svg,html,css,js,htmx,tailwind,windicss,java,bootstrap,blender,github,codepen,devto,discord,eclipse,idea,githubactions,gmail,vercel,windows,notion,npm,vscode,wordpress" alt="GraphicDesign" title="GraphicDesign"/>
 </div>
+
+<!-- GitHub Stats features such as Most Used Languages, Trophies, Contribute stats and so on..  -->
+# <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2>
+
+<div align="center">
+  
+![AraCustodio GitHub stats](https://github-readme-stats.vercel.app/api?username=AraCustodio&show_icons=true&theme=ambient_gradient)<br/>
+
+![AraCustodio GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=AraCustodio&theme=aura&border=false)<br/>
+<!-- For more theme color visit this link https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+![AraCustodio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AraCustodio&langs_count=11&theme=ambient_gradient&border=false&include_all_commits=true&count_private=true&layout=compact) 
+
+<br>
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
