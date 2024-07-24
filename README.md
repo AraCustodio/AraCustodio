@@ -85,5 +85,33 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
+<!-- Introduction Pannel button link, link button is located down below -->
+## [Introduction](#introduction)
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
+<!-- Delete this line of code if you want to activate the line 80 to 95 -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎💎🌷🌷🌷💎💎💎💙💙💙" alt="Typing SVG" /></a></h3>
+
+<!-- Gif Background Custom for Ara Franchesca reference  
+<div style="display: flex; justify-content: space-between;">
+<img width="200" height="200" src="https://media.giphy.com/media/Trn6sP8otECpClKyBi/giphy.gif?cid=790b7611oafmar5e0vy32uej6lxa3m8kdn7z3tyhpdmrbfwd&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhrcDZrdHNoNGNhOHh0ZHh0djhxN2dvMmZoYmh6MDV6djVnZGV5eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uyiVrmF8YIhK9Cv3bb/giphy.gif" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/ymRRmPPNdm6ehCzoDR/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/3Q0BOVN2TkKoZ6bmkt/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+ 
+  <img width="200" height="200" src="https://media.giphy.com/media/qE86UR7gniSqCCAOu8/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/o00txYe5oF3UNTg2HS/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/NcALtDKs5fgqYqGuqH/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+
+
+<img width="200" height="200" src="https://media.giphy.com/media/3Q0BOVN2TkKoZ6bmkt/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/TIXvsMtiMQ2WcHoDMK/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/JaMQmkaG3JsegkqnHC/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/pKJITcCYUBdiDWNp2g/giphy.gif?cid=790b7611oafmar5e0vy32uej6lxa3m8kdn7z3tyhpdmrbfwd&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" /> 
+-->
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
