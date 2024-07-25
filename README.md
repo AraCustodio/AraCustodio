@@ -23,12 +23,12 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
-<!-- Background github GIF with 3 Totoro 
+<!-- Background github GIF with 3 Genshin Impact Character -->
 <div align="center">
-<img width="300" height="300" src="https://media.giphy.com/media/46yPfgO81ZalJSKu74/giphy.gif?cid=ecf05e47g3ao5epwgdzfi9rxyof67a4gi05aohh4pkxy0yxj&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
-<img src="https://media.giphy.com/media/gl2Pu1StPljmi561zN/giphy.gif?cid=790b7611me4b3ojobqed5src3h9pziv3k8gz5rhod3vhyf1l&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
-<img src="https://media.giphy.com/media/UpDYorecBj9ZgB7FgE/giphy.gif?cid=ecf05e470ot4fr3y98edzm1wa6ckq0u677uy3q5oino1whw8&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="300">
--->
+<img width="300" height="500" src="https://media.giphy.com/media/r4qvly5Qv8frkndLh9/giphy.gif?cid=790b7611kvp1qmsg8c92jvps6cwy9lgf4cdze9jm26dhi0oo&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/oSQr4FSYNYZWWTEQ5A/giphy.gif?cid=ecf05e47eokf4hq633puebo7qfnpcm3n8fg5o7ntajvjmnxk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZwMXFtc2c4YzkyanZwczZjd3k5bGdmNGNkemU5am0yNmRoaTBvbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8VqauGTto4K3o3ODg/giphy.gif" width="300">
+
 
 <!-- Background effect line of sight color red -->
 <br>
