@@ -25,7 +25,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <!-- Background github GIF with 3 Genshin Impact Character -->
 <div align="center">
-<img width="300" height="500" src="https://media.giphy.com/media/r4qvly5Qv8frkndLh9/giphy.gif?cid=790b7611kvp1qmsg8c92jvps6cwy9lgf4cdze9jm26dhi0oo&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="300" height="450" src="https://media.giphy.com/media/r4qvly5Qv8frkndLh9/giphy.gif?cid=790b7611kvp1qmsg8c92jvps6cwy9lgf4cdze9jm26dhi0oo&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img src="https://media.giphy.com/media/oSQr4FSYNYZWWTEQ5A/giphy.gif?cid=ecf05e47eokf4hq633puebo7qfnpcm3n8fg5o7ntajvjmnxk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZwMXFtc2c4YzkyanZwczZjd3k5bGdmNGNkemU5am0yNmRoaTBvbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/s8VqauGTto4K3o3ODg/giphy.gif" width="300">
 
@@ -94,17 +94,17 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- Delete this line of code if you want to activate the line 80 to 95 -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎💎🌷🌷🌷💎💎💎💙💙💙" alt="Typing SVG" /></a></h3>
 
-<!-- Gif Background Custom for Ara Franchesca reference --> 
+<!-- Gif Background Custom for Ara Franchesca reference, for now it's only Genshin Impact --> 
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/XbOZPAuys2w11xSlbw/giphy.gif?cid=ecf05e47c02eep8g31677nziwu5zumahp2klofbnth3mcxtb&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/x5ZpRNW6KCf1Hqr3cG/giphy.gif?cid=ecf05e470s8dj9o11gswueou3bbnxjmpiqrzzlszjec93p7g&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/7KO0wJsXYSqY4UOtUL/giphy.gif?cid=ecf05e47brncvczpeflsggp731u2p9gymomy6x6zcmnmvhp6&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/31yLBmKkh4rPKK90FI/giphy.gif?cid=ecf05e478kqlodu0yqcwotgn8s7nptkwc2a0k36kmu32grol&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/XbOZPAuys2w11xSlbw/giphy.gif?cid=ecf05e47c02eep8g31677nziwu5zumahp2klofbnth3mcxtb&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
  
-  <img width="200" height="200" src="https://media.giphy.com/media/3qXi5eIvcgCmTDObOU/giphy.gif?cid=ecf05e475my7h9rh75f16euknqqcgv73ri59u440hbw49txo&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/x5ZpRNW6KCf1Hqr3cG/giphy.gif?cid=ecf05e470s8dj9o11gswueou3bbnxjmpiqrzzlszjec93p7g&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
   <img width="200" height="200" src="https://media.giphy.com/media/63jza7W5SkF8Low3TX/giphy.gif?cid=ecf05e47ea8zia4zo4k02zglfxs7twgn53379zn9cht6a26j&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
   <img width="200" height="200" src="https://media.giphy.com/media/63jza7W5SkF8Low3TX/giphy.gif?cid=ecf05e47ea8zia4zo4k02zglfxs7twgn53379zn9cht6a26j&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/3qXi5eIvcgCmTDObOU/giphy.gif?cid=ecf05e475my7h9rh75f16euknqqcgv73ri59u440hbw49txo&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/x5ZpRNW6KCf1Hqr3cG/giphy.gif?cid=ecf05e470s8dj9o11gswueou3bbnxjmpiqrzzlszjec93p7g&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 
 <img width="200" height="200" src="https://media.giphy.com/media/XbOZPAuys2w11xSlbw/giphy.gif?cid=ecf05e47c02eep8g31677nziwu5zumahp2klofbnth3mcxtb&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
@@ -126,7 +126,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 </div>
 
-<!-- Anya Forger -->
+<!-- Graphic Design Banner GIF -->
 <div align="center">
 <img src="https://media.giphy.com/media/rYWTnMxFXTawhlcRG2/giphy.gif?cid=790b7611hdbc5zb1blsno9u0uyp4rphgylq0u8ly1m1as9j4&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="300">
 </div>
