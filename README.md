@@ -192,6 +192,8 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <!-- End point insert background effect line of sight color rainbow -->
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
+<!-- Collection Art down below -->
+<img src="https://github.com/AraCustodio/AraCustodio/blob/main/assets/comic without chat bubbles.jpeg" />
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#introduction)
