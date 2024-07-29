@@ -58,17 +58,17 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   
 - 👩🏻‍💻 Aspiring Graphics Designer and Video Editor.
 
-- 👩🏻‍🎓 I’m currently studying Bachelor of Science in Information Technology major in Multimedia Arts and Animation.
+- 👩🏻‍🎓 I’m currently studying **Bachelor of Science in Information Technology major in Multimedia Arts and Animation**.
 
 - 👯 I’m excited to learn about Multimedia Arts using this roadmap: [UX Design](https://roadmap.sh/ux-design).
 
-- 🦾 I’m currently learning HTML, CSS, Javascript and JAVA in my programming subject.
+- 🦾 I’m currently learning **HTML, CSS, Javascript and JAVA** in my programming subject.
 
-- 🌷 Current tools for my Graphics design : Krita, Illustrator, Photoshop
+- 🌷 Current tools for my Graphics design : **Krita, Adobe Illustrator, Adobe Photoshop, Adobe InDesign**
 
 - 💬 Ask me about **Anything related to UX Design, Multimedia Arts, or Arts in General**
   
-- 🎮 My Hobbies are : film watching, video games, drawing, jogging
+- 🎮 My Hobbies are : **film watching, video games, drawing, jogging**
 
 - ⚡ Fun fact about me **I love watching Haikyu!**
 
@@ -204,6 +204,23 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <!-- End point insert background effect line of sight color rainbow -->
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
+<!-- Collection Art down below -->
+<img src="https://github.com/AraCustodio/AraCustodio/blob/main/assets/miko and ei.jpg" />
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<!-- Collection Art down below -->
+<img src="https://github.com/AraCustodio/AraCustodio/blob/main/assets/niel mielgo.jpg" />
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<!-- Collection Art down below -->
+<img src="https://github.com/AraCustodio/AraCustodio/blob/main/assets/strawberry crepe.jpg" />
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#introduction)
